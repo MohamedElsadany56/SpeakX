@@ -125,7 +125,7 @@ Propose **GOPT**, a Transformer-based model for assessing pronunciation across m
 
 ---
 
-### SSL + BiLSTM for Mispronunciation Detection (Recent Work)
+### SSL + BiLSTM for Mispronunciation Detection 
 
 **Objective:**  
 Leverage self-supervised learning (SSL) models like wav2vec 2.0 combined with BiLSTM to improve mispronunciation detection.
@@ -142,7 +142,6 @@ Leverage self-supervised learning (SSL) models like wav2vec 2.0 combined with Bi
 
 **Datasets:**
 - **[L2-ARCTIC](https://psi.engr.tamu.edu/l2-arctic-corpus/)** – 115 speakers, ~20h non-native speech with phoneme-level error labels.  
-- Extended lab-collected dataset (~50h Egyptian & Asian English accents).
 
 **Results:**
 
