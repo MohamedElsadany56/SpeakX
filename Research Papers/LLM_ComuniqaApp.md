@@ -1,4 +1,4 @@
-# LLM-Powered Language Learning Feedback System
+# Comuniqa : Exploring Large Language Models for Improving English Speaking Skills
 ##  System Architecture
 ### 1. User Speech Input
 **Input Type:** Spoken English (audio waveform).
